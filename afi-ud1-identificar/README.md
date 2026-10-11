@@ -2,5 +2,5 @@
 - **Nombre de la actividad:** Identificar antes de tocar
 - **Enlaces:**
 	- **[Comparativa](./comparativa.md)**
-	- **[Lista comprobación](./lista-comprobacion,md)**
+	- **[Lista comprobación](./lista-comprobacion.md)**
 	- **[Plan Almadraba](./plan-almadraba.md)**
