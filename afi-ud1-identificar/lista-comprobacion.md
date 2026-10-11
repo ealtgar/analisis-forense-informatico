@@ -5,7 +5,7 @@
 - [ ] 3. Al llegar: ¿Se ha apartado inmediatamente a los sospechosos y testigos de los equipos y de cualquier dispositivo con capacidad de conexión remota? _(ENFSI BPM §8.2)_
 #### FASE 2: Evaluación inicial y aseguramiento (Antes de tocar nada)
 
-- [ ] 4. ¿Es necesaria la intervención de peritos de otras disciplinas (ADN, dactiloscopia)? En caso afirmativo, ¿hemos acordado el orden de intervención para no destruir pruebas físicas? _(ENFSI BPM §8.2 / §9.1)_
+- [ ] 4. ¿Es necesaria la intervención de peritos de otras disciplinas (ADN, dactiloscopia)? En caso afirmativo, ¿Se ha acordado el orden de intervención para no destruir pruebas físicas? _(ENFSI BPM §8.2 / §9.1)_
 - [ ] 5. ¿Se ha documentado el estado general de la escena mediante fotografías exhaustivas y un croquis detallado de la ubicación de cada equipo y sus conexiones? _(ENFSI BPM §8.2)_
 - [ ] 6. ¿Hay periféricos, memorias USB, teléfonos, cámaras u otros dispositivos portátiles que deban incluirse en la incautación? _(NIST SP 800-86 §3.1.1 / ENFSI BPM §9.2)_
 - [ ] 7. ¿Se ha identificado cuáles sistemas están encendidos y cuáles apagados? **(IMPORTANTE: Si está encendido, NO APAGAR TODAVÍA)**. _(RFC 3227 §2.2 / ENFSI BPM §9.2)_
